@@ -1,6 +1,18 @@
 # AliExpress Scraper: Python example
 
-A small, runnable example for [AliExpress Scraper](https://apify.com/aurelix/aliexpress-product-search), an Apify Actor by Aurelix.
+**The problem:** You want AliExpress prices, discounts and units sold for a search in a spreadsheet you can sort, without copying product pages by hand.
+
+**The tool:** [AliExpress Scraper](https://apify.com/aurelix/aliexpress-product-search), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
+
+**The price:** $1.80 per 1,000 products on Apify's free plan and $1.26 on paid plans, plus $0.001 per run; you pay only for results. Apify's free plan includes $5 of credit a month.
+
+**Try it** (needs an Apify API token from Console > Settings > API & Integrations):
+
+```bash
+pip install -r requirements.txt
+export APIFY_TOKEN=your_token_here
+python main.py
+```
 
 [![AliExpress Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-v1.mp4)
 
