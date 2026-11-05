@@ -2,6 +2,10 @@
 
 A small, runnable example for [AliExpress Scraper](https://apify.com/aurelix/aliexpress-product-search), an Apify Actor by Aurelix.
 
+[![AliExpress Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-v1.mp4)
+
+**[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-v1.mp4)**
+
 ## What it does
 
 AliExpress Scraper turns AliExpress search results into clean rows: product ID, title, link, images, price and original price, discount, deal badge, rating, units sold as a number, listing date, ship-from country and a sponsored flag. Type any keywords and sort by best match, most orders or price, up to 60 pages of 60 products per search. Schedule it with 'Only new products' to get just the listings you have not seen before.
