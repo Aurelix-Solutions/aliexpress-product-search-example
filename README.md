@@ -1,5 +1,8 @@
 # AliExpress Scraper: Python example
 
+**AliExpress Dropshipping Scraper API - Units Sold.** AliExpress search results by keyword: price, discount, rating, units sold, ship-from country and sponsored flag. Price, example input and output, and FAQ: [AliExpress Scraper API on the Aurelix tools site](https://aurelix-solutions.github.io/tools/aliexpress-product-search/). Run it on the Apify Store: [apify.com/aurelix/aliexpress-product-search](https://apify.com/aurelix/aliexpress-product-search).
+
+
 **The problem:** You want AliExpress prices, discounts and units sold for a search in a spreadsheet you can sort, without copying product pages by hand.
 
 **The tool:** [AliExpress Scraper](https://apify.com/aurelix/aliexpress-product-search), an Apify Actor by Aurelix. This repository is a small, runnable Python example for it.
@@ -14,7 +17,7 @@ export APIFY_TOKEN=your_token_here
 python main.py
 ```
 
-[![AliExpress Scraper: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-v1.mp4)
+[![AliExpress Scraper API: 75-second demo video](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-thumb-v1.png)](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-v1.mp4)
 
 **[▶ Watch the 75-second demo](https://api.apify.com/v2/key-value-stores/twkCCtTWzsi8fVbx5/records/aliexpress-product-search-demo-v1.mp4)**
 
